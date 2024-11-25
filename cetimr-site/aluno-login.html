@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>Área do Aluno</title>
+	<link rel="stylesheet" href="style-login.css">
+	<meta name="viewport" content="width=device-width, initial scale=1.0">	
+</head>
+
+<body>
+
+<!--Header bar-->
+
+    <header>
+        <h1>CETI Manoel Ricardo</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Inicio</a></li>
+                <li><a href="#cursos">Cursos</a></li>
+                <li><a href="#gremio">Grêmio</a></li>
+                <li><a href="#contato">Contato</a></li>
+                <li><a href="aluno-login.html">Área do Aluno</a></li>
+            </ul>
+        </nav>
+    </header>
+
+
+<div class="login-aluno">
+	<h1>Login do Aluno</h1>
+</div>
+
+
+
+
+<form action="login-ok.html" method="post">
+	
+<!--Área de login-->
+
+<div class="login-cpf">
+	<fieldset id="border-cpf">
+	<section>
+		<label id="nome-cpf" for="input-cpf">CPF</label><br>
+		<input id="input-cpf" type="text" name="cpf" placeholder="000.000.000-00" autocomplete="off" required>
+	</section>
+	</fieldset>
+</div>
+
+
+<div class="login-data">
+	<fieldset id="border-data">
+		<section>
+			<label for="input-data">Data de Nascimento</label><br>
+			<input id="input-data" type="text" name="data" placeholder="--/--/---" autocomplete="off" required>
+		</section>
+	</fieldset>
+	
+</div>
+
+
+
+<!--Botão de login-->
+
+
+<div id="container">
+	<section id="botao-login">
+	<button type="submit">Entrar</button>	
+</div>
+
+</form>
+
+<footer>
+<p>&copy; 2024 CETI Manoel Ricardo. Todos os direitos reservados.</p>
+</footer>
+
+</body>
+</html>
