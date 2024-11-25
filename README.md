@@ -3,7 +3,7 @@
 <h1><strong> 2024 </strong> </h1><br>
 Professora Orientadora: Elaine Moura <br>
 Criação: 3º Ano "A" <br> <br>
-<h2><strong>Integrantes: </strong>> </h2> <br>
+<h2><strong>Integrantes: </strong> </h2> <br>
 <strong>Homepage: </strong> <br>
 Guilherme Nascimento <br>
 Pedro Wilson <br>
@@ -11,7 +11,7 @@ Wallyson <br>
 Ryan<br>
 <br>
 <strong>Grêmio: </strong> <br>
-Pedro Wilson<br>
+Pedro Wilson<br> <br>
 <strong>Área do Aluno:</strong> <br>
 Guilherme Nascimento<br>
 <br>
