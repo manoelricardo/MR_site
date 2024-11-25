@@ -1,10 +1,10 @@
-<strong> ##Site do CETI Manoel Ricardo, Cajueiro da Praia - Piauí - Brasil </strong> <br>
+<h1> <strong> ##Site do CETI Manoel Ricardo, Cajueiro da Praia - Piauí - Brasil </strong> </h1><br> 
 <hr>
-<strong> 2024 </strong> <br>
-Criação: 3º Ano "A" <br>
+<h1><strong> 2024 </strong> </h1><br>
 Professora Orientadora: Elaine Moura <br>
-## Integrantes: <br>
-Homepage: <br>
+Criação: 3º Ano "A" <br> <br>
+<h2><strong>Integrantes: </strong>> </h2> <br>
+<strong>Homepage: </strong> <br>
 Guilherme Nascimento <br>
 Pedro Wilson <br>
 Wallyson <br>
