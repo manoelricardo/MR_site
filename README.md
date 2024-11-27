@@ -3,7 +3,7 @@
 <h1><strong> 2024 </strong> </h1><br>
 <p>Professora Orientadora: Elaine Moura</p>
 <p>Criação: 3º Ano "A"</p> <br>
-<h2><strong>Integrantes: </strong> </h2> <br>
+<h2><strong>Desenvolvedores: </strong> </h2> <br>
 <p><strong>Homepage: </strong></p>
 <p><a href= "https://github.com/guiclipse95">Guilherme Nascimento</a></p>
 <p>Pedro Wilson</p>
