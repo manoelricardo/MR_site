@@ -1,7 +1,7 @@
 <h1> <strong> ##Site do CETI Manoel Ricardo, Cajueiro da Praia - Piauí - Brasil </strong> </h1><br> 
 <hr>
 <h1><strong> 2024 </strong> </h1><br>
-<p>Professora Orientadora: Elaine Moura</p>
+<p><a href= "https://github.com/eladevon">Professora Orientadora: Elaine Moura</a></p>
 <p>Criação: 3º Ano "A"</p> <br>
 <h2><strong>Desenvolvedores: </strong> </h2> <br>
 <p><strong>Homepage: </strong></p>
