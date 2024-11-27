@@ -36,13 +36,13 @@ header .nomedaescola {
   font-weight: bold;
 }
 
-header .nomedaescola a {
+a {
   color: white;
   text-decoration: none;
   font-weight: bold;
 }
 
-header .nomedaescola a:hover {
+a:hover {
     color: rgba(223, 245, 29, 0.904);
     text-decoration: none;
     font-weight: bold;
@@ -102,14 +102,5 @@ footer {
   margin-top: 20px;
 }
 
-a{
-    color: white;
-    text-decoration: none;
-    
-}
 
-a:hover{
-    color:rgba(223, 245, 29, 0.904);
-    text-decoration: none;
-    
-}
+
