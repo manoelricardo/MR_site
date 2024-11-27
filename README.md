@@ -6,19 +6,19 @@
 <h2><strong>Integrantes: </strong> </h2> <br>
 <p><strong>Homepage: </strong></p>
 <p><a href= "https://github.com/guiclipse95">Guilherme Nascimento</a></p>
-Pedro Wilson <br>
-Wallyson <br>
-Ryan<br>
+<p>Pedro Wilson</p>
+<p>Wallyson</p>
+<p>Ryan</p>
 <br>
-<strong>Grêmio: </strong> <br>
-Pedro Wilson<br> <br>
-<strong>Área do Aluno:</strong> <br>
-Guilherme Nascimento<br>
+<p><strong>Grêmio: </strong> </p>
+<p>Pedro Wilson</p> <br>
+<p><strong>Área do Aluno:</strong> </p>
+<p>Guilherme Nascimento<</p>
 <br>
-<strong>História da Escola: </strong> <br>
-Mikaela <br>
-Emanuela <br>
-Lais<br>
+<p><strong>História da Escola: </strong> </p>
+<p>Mikaela</p>
+<p>Emanuela</p>
+<p>Lais</p>
 <br>
-<strong>Sobre o Prédio: </strong> <br>
-Sara
+<p><strong>Sobre o Prédio: </strong> </p>
+<p>Sara</p>
