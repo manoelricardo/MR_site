@@ -17,14 +17,29 @@ body {
 header {
     background: #4CAF50;
     color: white;
-    padding: 20px 0;
+    padding: 40px 0;
     text-align: center;
 }
 
-nav ul {
-    list-style: none;
-    padding: 0;
+.logoescola .logomr{
+    float: left;
+    width: 15%;
+    display: flex;
+    height: 120px;
+    align-items: center;
+    padding: 0px 10px;
+    }
+
+header .nomedaescola{
+    font-size: 40px;
+    font-stretch: expanded;
+    font-weight: bold;
 }
+nav ul {
+    float: center;
+    width: 87%;
+    list-style: none;
+    }
 
 nav ul li {
     display: inline;
@@ -33,6 +48,11 @@ nav ul li {
 
 nav a {
     color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+nav a:hover {
+    color: rgba(223, 245, 29, 0.904);
     text-decoration: none;
     font-weight: bold;
 }
@@ -52,6 +72,10 @@ h2 {
     color: #4CAF50;
 }
 
+li{
+    list-style: none;
+    margin-left: 15px ;
+}
 /* Estilo do rodapé */
 
 footer {
